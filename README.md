@@ -32,7 +32,7 @@ A personal portfolio layout showcasing projects, skills, and contact information
 - *Flexbox*
 - *CSS Grid*
 - *Responsive Design*
--*Media Queries (for responsiveness)*
+- Media Queries (for responsiveness)
 
 ---
 
